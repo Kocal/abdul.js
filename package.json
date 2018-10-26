@@ -1,0 +1,9 @@
+{
+  "name": "abdul.js",
+  "version": "1.0.0",
+  "description": "Abdul.js",
+  "main": "index.js",
+  "repository": "https://github.com/Kocal/abdul.js.git",
+  "author": "Hugo Alliaume <kocal@live.fr>",
+  "license": "MIT"
+}
